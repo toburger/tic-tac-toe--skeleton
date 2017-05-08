@@ -24,7 +24,7 @@ code . # open with the editor of your choice
 yarn start
 ```
 
-# Examples of the different states used in `./src/App.js`
+# Examples of the different states used in [./src/App.js]()
 
 ## state1
 
