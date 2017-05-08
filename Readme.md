@@ -3,13 +3,13 @@
 ## Clone the repo
 
 ```sh
-git clone https://github.com/toburger/tic-tac-toe--skeleton.git
+git clone https://github.com/toburger/tic-tac-toe--skeleton.git tic-tac-toe
 ```
 
 ## Either kickstart with `npm`
 
 ```sh
-cd tic-tac-toe--skeleton
+cd tic-tac-toe
 npm install
 code . # open with the editor of your choice
 npm start
@@ -18,7 +18,7 @@ npm start
 ## Otherwise kickstart with `yarn`
 
 ```sh
-cd tic-tac-toe--skeleton
+cd tic-tac-toe
 yarn
 code . # open with the editor of your choice
 yarn start
