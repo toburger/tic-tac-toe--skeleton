@@ -23,3 +23,35 @@ yarn
 code . # open with the editor of your choice
 yarn start
 ```
+
+# Examples of the different states
+
+## state1
+
+Show the initial state:
+
+![](images/state1.png)
+
+## state2
+
+Show the state after player 'X' made a move:
+
+![](images/state2.png)
+
+## state3
+
+Show a more evolved board:
+
+![](images/state3.png)
+
+## state4
+
+Show the state with a winner:
+
+![](images/state4.png)
+
+## state5
+
+Show the state with a draw:
+
+![](images/state5.png)
